@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# User data (vc-work should NOT be committed)
+# Users create their own vc-work directory
+vc-work/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log

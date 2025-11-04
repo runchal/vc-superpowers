@@ -1,0 +1,13 @@
+{
+  "name": "vc-superpowers",
+  "description": "VC Superpowers: Transform rough thoughts into polished, investor-ready content through Socratic refinement",
+  "version": "1.0.0",
+  "author": {
+    "name": "Amit Runchal",
+    "email": "your-email@example.com"
+  },
+  "homepage": "https://github.com/[your-username]/vc-superpowers",
+  "repository": "https://github.com/[your-username]/vc-superpowers",
+  "license": "MIT",
+  "keywords": ["vc", "fundraising", "startup", "investor", "pitch", "deck", "socratic", "advisory"]
+}
